@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eceminer.github.io/sitemap
+Sitemap: https://eceminer.github.io/app/sitemap
+Sitemap: https://eceminer.github.io/assets/sitemap
+Sitemap: https://eceminer.github.io/css/sitemap
+Sitemap: https://eceminer.github.io/includes/sitemap
+Sitemap: https://eceminer.github.io/item/sitemap
+Sitemap: https://eceminer.github.io/src/sitemap
